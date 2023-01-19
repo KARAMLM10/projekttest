@@ -1,0 +1,12 @@
+DAGBOK
+dag 1- Jag skapade DATA folder för conection sen fixade conection mellan console appen och sql.
+DAG 2- Skapade controller folder som inehåller appbuider ,INTERFACE och Main Menu klasser skapade även ny klass i data folder som huvudklass till Shape.
+jag la all property som jag behöver i shape klassen, sen i datainisializer seedade jag 4 olika typer av shapes.
+dag 3- började jag med main menu och gjorde den fardig, efter det skapade folder i controller folder som heter shape och där la jag all shapes klasser och CRUD delen.
+dag 4- jag höll på med shapes klasser och CRUD delen tills jag blev klar med det.
+dag 5- den här dagen var lite speciell för jag körde felhantering denna dag, det var utmanning för mig med det, lärde mig try and catch och hur man använder det och sen la jag try and catch på alla klasser och crud delen.
+dag 6- började jag med andra projekt och det var calculator, jag hade samma tankesätt som shape folder och klasser uppbygda.
+dag 7- fortsatt jag med folder calculator och klasser och det var lite svårt med det här avrundning till två decimaler i båda result och siffror man matar in men sen jag forskade efter i google hittade svar och efter det löste jag det på alla calculation.
+dag 8-Denna dag var ganska enkel för mig för den var felhantering till calculator klasser.
+dag 9- Denna dag var för spelet sten, sax eller påse skapade en huvudklass där har jag property i, sen andra klassen fixade spelet med while loopar och if satser och sist men inte minst är felhantering var till denna klass.
+dag 10- sista dag kontrollerade jag projektet och fixade lite till saker så att programmet ska funka på rätt sätt och inga konstiga fel ska vissas på skärmen eller till användaren.
