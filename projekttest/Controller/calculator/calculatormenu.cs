@@ -26,7 +26,7 @@ namespace projekttest.Controller.calculator
                 while (true)
                 {
                     Console.Clear();
-                    Console.WriteLine("Calculator Menu Site ");
+                    Console.WriteLine("Calculator Menu Site ");   
                     Console.WriteLine("============================");
                     Console.WriteLine("1- Create new Calculation: ");
                     Console.WriteLine("2- Read All Calculations: ");
