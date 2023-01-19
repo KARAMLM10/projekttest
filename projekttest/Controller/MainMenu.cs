@@ -17,7 +17,7 @@ namespace projekttest.Controller
             Console.WriteLine("MAin Menu Site");
             Console.WriteLine("============================");
             Console.WriteLine("1:shape Menu");
-            Console.WriteLine("2:calculator Menu");
+            Console.WriteLine("2:calculator Menu"); 
             Console.WriteLine("3:sten , sax , påse Menu");
 
            // Console.WriteLine("0: Exit");
