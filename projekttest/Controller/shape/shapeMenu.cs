@@ -25,7 +25,7 @@ namespace projekttest.Controller.shape
                 while (true)
                 {
                     Console.Clear();
-                    Console.WriteLine("Shapes Menu Site ");
+                    Console.WriteLine("Shapes Menu Site ");    
                     Console.WriteLine("==============================");
                     Console.WriteLine("1- create new calculation for shapes from shape calculation menu");
                     Console.WriteLine("2- read all shapes");
