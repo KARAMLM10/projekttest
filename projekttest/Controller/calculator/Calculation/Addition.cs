@@ -21,8 +21,7 @@ namespace projekttest.Controller.calculator.Calculation
                 Console.Clear();
                 string addition1 = "Addition";
                 Console.WriteLine("here you will calculate the Addition mathematical calculatoin: ");
-                //Console.WriteLine("write the method (Addition): ");
-                //var type1 = Console.ReadLine().ToLower();
+                
                 var DT1 = DateTime.UtcNow;
                 Console.WriteLine("Mata in Första nummer: ");
                     var num1 = Convert.ToDouble(Console.ReadLine());
