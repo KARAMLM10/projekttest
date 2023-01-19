@@ -9,6 +9,5 @@ namespace projekttest.Controller
     public interface Ishape
     {
         public void Run();
-
     }
 }
