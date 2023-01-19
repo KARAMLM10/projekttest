@@ -28,10 +28,11 @@ namespace projekttest.Controller.shape
 
             //Console.WriteLine("ange shape ID");
             //var shapeid = Convert.ToDouble(Console.ReadLine());
-            try { 
+            try 
+            { 
 
-            while (true)
-            {
+             while (true)
+             {
                 Console.Clear();
                 Console.WriteLine("Shapes Calculatoin Menu Site ");
                 Console.WriteLine("=====================================");
@@ -70,7 +71,7 @@ namespace projekttest.Controller.shape
                 }
                  break;
                 
-            }
+             }
             }
             catch(Exception) { Console.WriteLine("invalid input: going back to Main Menu Site. "); Console.ReadLine(); }
 
