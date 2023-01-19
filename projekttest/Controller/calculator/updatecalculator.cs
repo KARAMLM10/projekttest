@@ -66,10 +66,7 @@ namespace projekttest.Controller.calculator
                         calculatetoupdate.Number2 = Math.Round(num2update, 2);
                         calculatetoupdate.result = Math.Round(answer1update, 2);
                         calculatetoupdate.Date = DT1;
-                        //num1updated.Number1=num1update;
-                        //num2updated.Number2 = num2update; 
-                        //resulttoupdate.result = answer1update;
-                        //resulttoupdate.Date = DT1;
+                       
                         dbContext.SaveChanges();
                         Console.WriteLine("press any key to continue");
                         Console.ReadLine();
