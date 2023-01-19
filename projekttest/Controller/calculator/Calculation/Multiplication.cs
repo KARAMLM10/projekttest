@@ -38,22 +38,7 @@ namespace projekttest.Controller.calculator.Calculation
                     Date = DT3
                 });
                 dbContext.SaveChanges();
-                //var Calculator = new Calculator
-                //{
-                //    Number1 = num1,
-                //    Number2 = num2,
-                //    Type = multiplication
-                //};
-                //var calculation = new RESULT
-                //{
-
-                //    result = answer1,
-                //    Date = DT3,
-                //    Calculator = Calculator
-                //};
-                //dbContext.calculators.Add(Calculator);
-                //dbContext.RESULTs.Add(calculation);
-                //dbContext.SaveChanges();
+               
                 Console.WriteLine("press any key to continue");
                 Console.ReadLine();
 
